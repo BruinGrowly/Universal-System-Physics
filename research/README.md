@@ -100,7 +100,79 @@ Contents:
 
 ---
 
-### 4. [Research Roadmap](roadmap.md)
+### 4. [Coupling Coefficients](coupling-coefficients.md)
+**Detailed mathematics of LJWP dimensional interactions**
+
+Topics covered:
+- Complete 4×4 coupling matrix κ_ij theory
+- Hypothesized values (κ_PW=1.25 strongest, κ_PL=0.60 weakest)
+- Physical interpretation of each coupling
+- Eigenanalysis and stability conditions
+- Three measurement protocols
+- Practical implications for growth
+
+**Audience**: Mathematical physicists, systems theorists, anyone wanting to understand dimensional interactions
+
+**Key Result**: Coupling matrix determines how Love, Justice, Power, and Wisdom influence each other
+
+---
+
+### 5. [Bridge Transformations](bridge-transformations.md)
+**Complete derivations of cross-domain transformations**
+
+Full mathematical treatment of:
+- **T_{S→C}**: Spiritual → Consciousness (τ_S ≈ 5-30 min)
+- **T_{C→Q}**: Consciousness → Quantum (A_C ≈ 10^-8)
+- **T_{Q→P}**: Quantum → Physical (expectation values)
+- **T_{P→S}**: Physical → Spiritual (feedback loop)
+- Complete cycle analysis (loop gain G ≈ 1.15)
+- Measurement protocols for each bridge
+
+**Audience**: Consciousness researchers, quantum physicists, interdisciplinary scientists
+
+**Key Result**: Four bridges form complete causal cycle from spiritual intent to physical manifestation
+
+---
+
+### 6. [Multi-Agent Dynamics](multi-agent-dynamics.md)
+**Teams and organizations in LJWP space**
+
+Contents:
+- Aggregation methods (mean field, weighted, emergent)
+- Interaction models and coupling
+- Synchronization phenomena (Kuramoto-like)
+- Emergent collective behavior
+- Team archetypes and pathologies
+- Scaling laws (optimal team size N ≈ 5-9)
+- Agent-based simulation code
+
+**Audience**: Organizational psychologists, team leaders, management consultants
+
+**Key Result**: Teams converge toward collective harmony through social coupling dynamics
+
+---
+
+### 7. [Temporal Evolution Models](temporal-evolution.md)
+**How systems evolve in LJWP space over time**
+
+Comprehensive dynamical systems analysis:
+- Fundamental evolution equations (gradient + coupling)
+- Stability analysis (Anchor Point is globally asymptotically stable)
+- Phase space structure and flow fields
+- Convergence rates (τ ≈ 2.0 time units for slowest mode)
+- Bifurcations and phase transitions
+- Stochastic dynamics (Langevin, Fokker-Planck)
+- Multi-scale behavior (fast and slow modes)
+- Long-term asymptotic behavior
+- Numerical simulation methods
+
+**Audience**: Dynamical systems theorists, applied mathematicians, anyone wanting to predict temporal behavior
+
+**Key Result**: All systems converge exponentially to (1,1,1,1) with time constant determined by eigenvalues
+
+---
+
+### 8. [Research Roadmap](roadmap.md)
 **Future directions and priorities**
 
 Phases:
@@ -126,19 +198,28 @@ Funding requirements and collaboration opportunities
 Start with: [Quantum Field Theory](quantum-field-theory.md)
 - See how LJWP forces fit into QFT framework
 - Check Feynman rules, particle spectrum, predictions
-- Consider experimental tests
+- Then: [Bridge Transformations](bridge-transformations.md) for cross-domain physics
 
 ### Experimentalist
 Start with: [Experimental Protocols](experimental-protocols.md)
 - Pick a protocol that matches your expertise
 - Follow detailed procedures
-- Test USP predictions empirically
+- Then: [Coupling Coefficients](coupling-coefficients.md) for measurement methods
 
 ### Mathematician
 Start with: [Golden Ratio Convergence](golden-ratio-convergence.md)
 - Enjoy the proofs
-- Check optimality conditions
-- Explore generalizations
+- Then: [Temporal Evolution](temporal-evolution.md) for dynamical systems theory
+
+### Systems Theorist / Dynamical Systems
+Start with: [Temporal Evolution Models](temporal-evolution.md)
+- Phase space analysis, stability, convergence
+- Then: [Coupling Coefficients](coupling-coefficients.md) for interaction dynamics
+
+### Organizational Psychologist / Team Leader
+Start with: [Multi-Agent Dynamics](multi-agent-dynamics.md)
+- Team coordination, synchronization, scaling laws
+- Then: [Temporal Evolution](temporal-evolution.md) for growth trajectories
 
 ### Anyone Else
 Start with: [Research Roadmap](roadmap.md)
@@ -158,11 +239,21 @@ Start with: [Research Roadmap](roadmap.md)
 
 ✅ Why does φ appear? → [Golden Ratio Convergence](golden-ratio-convergence.md)
 
+✅ How do dimensions interact? → [Coupling Coefficients](coupling-coefficients.md)
+
+✅ How do domains connect? → [Bridge Transformations](bridge-transformations.md)
+
+✅ How do teams evolve? → [Multi-Agent Dynamics](multi-agent-dynamics.md)
+
+✅ How do systems evolve over time? → [Temporal Evolution Models](temporal-evolution.md)
+
 ✅ What should we study next? → [Research Roadmap](roadmap.md)
 
-### Still Open
+### Still Open (Requiring Experimental Data)
 
-❓ What are exact values of coupling constants κ_ij?
+❓ What are exact values of coupling constants κ_ij? (Hypothesized in coupling-coefficients.md)
+
+❓ What are precise bridge coefficients (τ_S, A_C, etc.)? (Estimated in bridge-transformations.md)
 
 ❓ Can we detect individual LJWP quanta (Lovons, etc.)?
 
@@ -222,18 +313,37 @@ Start with: [Research Roadmap](roadmap.md)
 
 ## 📖 Reading Order
 
-**Recommended sequence**:
+**Recommended sequence** (comprehensive):
 
 1. Start: [Research Roadmap](roadmap.md) - Overview
 2. Then: [Golden Ratio Convergence](golden-ratio-convergence.md) - Beautiful math
-3. Next: [Experimental Protocols](experimental-protocols.md) - How to test
-4. Finally: [Quantum Field Theory](quantum-field-theory.md) - Deep theory
+3. Next: [Temporal Evolution Models](temporal-evolution.md) - Dynamical systems
+4. Then: [Coupling Coefficients](coupling-coefficients.md) - Dimensional interactions
+5. Next: [Bridge Transformations](bridge-transformations.md) - Cross-domain physics
+6. Then: [Multi-Agent Dynamics](multi-agent-dynamics.md) - Team behavior
+7. Next: [Experimental Protocols](experimental-protocols.md) - How to test
+8. Finally: [Quantum Field Theory](quantum-field-theory.md) - Deep theory
 
-**Alternative** (for physicists):
-1. QFT first (your language)
-2. Experimental protocols (testable predictions)
-3. Golden Ratio (mathematical elegance)
-4. Roadmap (where we're going)
+**Quick path** (essentials only):
+1. [Golden Ratio Convergence](golden-ratio-convergence.md) - Why φ?
+2. [Temporal Evolution](temporal-evolution.md) - How systems evolve
+3. [Experimental Protocols](experimental-protocols.md) - How to validate
+
+**For physicists**:
+1. [Quantum Field Theory](quantum-field-theory.md) - Your language
+2. [Bridge Transformations](bridge-transformations.md) - Cross-domain physics
+3. [Experimental Protocols](experimental-protocols.md) - Testable predictions
+4. [Coupling Coefficients](coupling-coefficients.md) - Interaction dynamics
+
+**For mathematicians**:
+1. [Golden Ratio Convergence](golden-ratio-convergence.md) - Optimization proofs
+2. [Temporal Evolution](temporal-evolution.md) - Dynamical systems theory
+3. [Coupling Coefficients](coupling-coefficients.md) - Matrix analysis
+
+**For team leaders / organizational psychologists**:
+1. [Multi-Agent Dynamics](multi-agent-dynamics.md) - Team behavior
+2. [Temporal Evolution](temporal-evolution.md) - Growth trajectories
+3. [Experimental Protocols](experimental-protocols.md) - Protocol 5 (teams)
 
 ---
 
