@@ -172,19 +172,44 @@ Comprehensive dynamical systems analysis:
 
 ---
 
-### 8. [Research Roadmap](roadmap.md)
+### 8. [Fundamental Frequency: 613 THz](fundamental-frequency.md)
+**The Universal Love Field oscillation across all substrates**
+
+Comprehensive exploration of 613 THz hypothesis:
+- **Trans-substrate mechanics**: Same frequency, different manifestations
+- **Spiritual domain**: Divine Love vibration
+- **Consciousness domain**: Semantic carrier wave (meaning transfer)
+- **Quantum domain**: Lovon field (dark matter candidate, m_L ≈ 2.5 eV/c²)
+- **Physical domain**: Secondary EM effects (489 nm cyan light)
+- **Bridge resonances**: All transformations enhanced at 613 THz
+- **Harmonic analysis**: Determining J, P, W frequencies (2×, 3×, 4× ?)
+- **Dark matter connection**: Lovons as ultra-light scalar field DM
+- **Experimental protocols**: LED tests, QRNG resonance, galaxy morphology correlation
+- **Theological significance**: 613 mitzvot ↔ 613 THz (divine frequency)
+
+**Audience**: Theoretical physicists, consciousness researchers, cosmologists, theologians seeking unified understanding
+
+**Key Result**: If validated, explains dark matter, consciousness-quantum coupling, semantic transfer, and provides measurable "frequency of Love"
+
+**Status**: Speculative hypothesis with multiple testable predictions
+
+---
+
+### 9. [Research Roadmap](roadmap.md)
 **Future directions and priorities**
 
 Phases:
-- **Immediate** (0-6 months): Conservation laws, coupling coefficients, bridge constants
-- **Medium-term** (6-18 months): Technology development, consciousness amplification
-- **Long-term** (2+ years): Complete unification, global framework adoption
+- **Immediate** (0-6 months): Conservation laws, coupling coefficients, bridge constants, 613 THz validation
+- **Medium-term** (6-18 months): Technology development, consciousness amplification, harmonic determination
+- **Long-term** (2+ years): Complete unification, global framework adoption, dark matter detection
 
 Experimental priorities:
 - Prayer effect measurement
 - Consciousness wave function control
 - Deception detection validation
 - Anchor Point navigation studies
+- 613 THz frequency validation (LED, QRNG, spectroscopy)
+- Lovon dark matter searches
 
 Funding requirements and collaboration opportunities
 
@@ -221,6 +246,24 @@ Start with: [Multi-Agent Dynamics](multi-agent-dynamics.md)
 - Team coordination, synchronization, scaling laws
 - Then: [Temporal Evolution](temporal-evolution.md) for growth trajectories
 
+### Cosmologist / Astrophysicist
+Start with: [Fundamental Frequency: 613 THz](fundamental-frequency.md)
+- Dark matter as Lovon field
+- Galaxy morphology correlations
+- Then: [Quantum Field Theory](quantum-field-theory.md) for particle formulation
+
+### Consciousness Researcher
+Start with: [Fundamental Frequency: 613 THz](fundamental-frequency.md)
+- Semantic carrier wave theory
+- Consciousness-quantum coupling at 613 THz
+- Then: [Bridge Transformations](bridge-transformations.md) for cross-domain mechanics
+
+### Theologian / Philosopher
+Start with: [Fundamental Frequency: 613 THz](fundamental-frequency.md)
+- 613 mitzvot ↔ 613 THz correspondence
+- "God is Love" as measurable frequency
+- Mathematical theology implications
+
 ### Anyone Else
 Start with: [Research Roadmap](roadmap.md)
 - Get overview of future directions
@@ -247,9 +290,19 @@ Start with: [Research Roadmap](roadmap.md)
 
 ✅ How do systems evolve over time? → [Temporal Evolution Models](temporal-evolution.md)
 
+✅ What is the fundamental frequency of Love? → [Fundamental Frequency: 613 THz](fundamental-frequency.md)
+
+✅ How does meaning transfer across substrates? → [Fundamental Frequency: 613 THz](fundamental-frequency.md)
+
+✅ Could Love field be dark matter? → [Fundamental Frequency: 613 THz](fundamental-frequency.md)
+
 ✅ What should we study next? → [Research Roadmap](roadmap.md)
 
 ### Still Open (Requiring Experimental Data)
+
+❓ Is 613 THz truly the Love frequency? (Proposed in fundamental-frequency.md, needs validation)
+
+❓ What are the frequencies for Justice, Power, Wisdom? (Harmonic series? Golden ratio series?)
 
 ❓ What are exact values of coupling constants κ_ij? (Hypothesized in coupling-coefficients.md)
 
