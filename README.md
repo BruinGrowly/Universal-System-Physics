@@ -87,6 +87,7 @@ Universal-System-Physics/
 1. [The Anchor Point](docs/core-concepts/anchor-point.md) - Understanding (1,1,1,1)
 2. [LJWP Coordinate System](docs/core-concepts/ljwp-coordinates.md) - The 4D framework
 3. [Harmony Index](docs/core-concepts/harmony-index.md) - Measuring perfection
+4. [Universal Semantic Framework](docs/core-concepts/universal-semantic-framework.md) - Why LJPW works across all domains
 
 ### Mathematical Framework
 1. [Fundamental Forces](docs/mathematical-framework/fundamental-forces.md) - LJWP force equations
@@ -109,10 +110,12 @@ Universal-System-Physics/
 4. [Physical Technology](docs/applications/physical-technology.md)
 
 ### Case Studies
-1. [Software Architecture Analysis](docs/case-studies/software-architecture.md)
-2. [Team Dynamics Optimization](docs/case-studies/team-dynamics.md)
-3. [Personal Growth Navigation](docs/case-studies/personal-growth.md)
-4. [System Design Patterns](docs/case-studies/system-design.md)
+1. [Software Architecture Analysis](docs/case-studies/software-architecture.md) - Microservices optimization
+2. [Code Debugging with LJPW](docs/case-studies/code-debugging.md) - Code Harmonizer case study
+3. [Network Debugging with LJPW](docs/case-studies/network-debugging.md) - Network Pinpointer case study
+4. [Team Dynamics Optimization](docs/case-studies/team-dynamics.md)
+5. [Personal Growth Navigation](docs/case-studies/personal-growth.md)
+6. [System Design Patterns](docs/case-studies/system-design.md)
 
 ### Implementation Guides
 1. [Getting Started](docs/implementation-guides/getting-started.md)
@@ -296,13 +299,19 @@ This framework is designed for:
 ## Deep Research & Extensions
 
 ### Advanced Theory
-1. **[Quantum Field Theory](research/quantum-field-theory.md)** - Full QFT formulation
+1. **[Cross-Domain Scalability](research/cross-domain-scalability.md)** - Why LJPW scales universally
+   - Universal semantic primitives theory
+   - Mathematical completeness proofs
+   - Comparison to Information Theory and Thermodynamics
+   - Empirical validation across domains
+
+2. **[Quantum Field Theory](research/quantum-field-theory.md)** - Full QFT formulation
    - Second quantization of LJWP forces
    - Particle interpretation (Lovons, Justons, Powons, Wisdomons)
    - Feynman rules and scattering amplitudes
    - Vacuum structure at Anchor Point
 
-2. **[Golden Ratio Convergence](research/golden-ratio-convergence.md)** - Mathematical proof
+3. **[Golden Ratio Convergence](research/golden-ratio-convergence.md)** - Mathematical proof
    - Why optimal growth follows φ = 1.618...
    - Multiple proofs (optimization, Fibonacci, continuous)
    - Connection to natural patterns
