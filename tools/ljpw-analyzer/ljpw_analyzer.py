@@ -385,6 +385,66 @@ def coupling_command(config_path: str) -> None:
         print(f"{dim_name}: {base:.2f} × {mult:.2f} = {eff:.2f} (+{improvement:.1f}%)")
 
 
+def mix_command(config_path: str) -> None:
+    """Analyze mixing and numerical equivalents"""
+    with open(config_path, 'r') as f:
+        config = json.load(f)
+
+    coords = LJPWCoordinates(**config['coordinates'])
+
+    # Import mixing module
+    try:
+        from ljpw_mixing import LJPWMixer, LJPWDiagnostics, NATURAL_EQUILIBRIUM
+    except ImportError:
+        print("Error: ljpw_mixing module not found. Please ensure it's in the same directory.")
+        sys.exit(1)
+
+    print(f"=== LJPW Mixing Analysis ===\n")
+    print(f"System: {config.get('system', 'Unknown')}")
+    print(f"Coordinates: L={coords.L:.2f}, J={coords.J:.2f}, P={coords.P:.2f}, W={coords.W:.2f}\n")
+
+    # Mixing scores
+    mixer = LJPWMixer()
+    scores = mixer.mix(coords.L, coords.J, coords.P, coords.W)
+
+    print("--- Mixing Scores ---")
+    print(f"Robustness (harmonic):     {scores['robustness']:.3f}  [Weakest link metric]")
+    print(f"Effectiveness (geometric): {scores['effectiveness']:.3f}  [All dimensions needed]")
+    print(f"Growth Potential (coupling): {scores['growth_potential']:.3f}  [Love-amplified]")
+    print(f"Harmony (anchor-based):    {scores['harmony']:.3f}  [Distance from perfection]")
+    print(f"Composite Score:           {scores['composite']:.3f}  [Overall quality]")
+
+    # Diagnostics
+    print("\n--- Diagnostics ---")
+    diagnostics = LJPWDiagnostics()
+    diag = diagnostics.diagnose(coords.L, coords.J, coords.P, coords.W)
+
+    print(f"Bottleneck: {diag['bottleneck']} (value: {diag['bottleneck_value']:.2f})")
+    print("\nIssues:")
+    for issue in diag['issues']:
+        print(f"  • {issue}")
+
+    print("\nSuggestions:")
+    for suggestion in diag['suggestions']:
+        print(f"  • {suggestion}")
+
+    # Color visualization
+    print("\n--- Color Visualization ---")
+    print(f"RGB: {diag['color']['rgb']}")
+    print(f"Hex: {diag['color']['hex']}")
+    print(f"Name: {diag['color']['name']}")
+
+    # Comparison to Natural Equilibrium
+    print("\n--- Natural Equilibrium Comparison ---")
+    eq_vals = NATURAL_EQUILIBRIUM.as_tuple()
+    print(f"Natural Equilibrium: L={eq_vals[0]:.3f}, J={eq_vals[1]:.3f}, P={eq_vals[2]:.3f}, W={eq_vals[3]:.3f}")
+
+    comp = diagnostics.compare_to_equilibrium(coords.L, coords.J, coords.P, coords.W)
+    print(f"Distance from Natural Equilibrium: {comp['distance_from_equilibrium']:.3f}")
+    print(f"Distance from Anchor Point: {comp['distance_from_anchor']:.3f}")
+    print(f"Interpretation: {comp['interpretation'][0]}")
+
+
 def main():
     parser = argparse.ArgumentParser(
         description='LJPW Analyzer - Analyze systems using the LJPW framework'
@@ -404,6 +464,10 @@ def main():
     coupling_parser = subparsers.add_parser('coupling', help='Analyze coupling dynamics')
     coupling_parser.add_argument('config', help='Path to system configuration JSON')
 
+    # Mix command (NEW)
+    mix_parser = subparsers.add_parser('mix', help='Analyze mixing and numerical equivalents')
+    mix_parser.add_argument('config', help='Path to system configuration JSON')
+
     args = parser.parse_args()
 
     if args.command == 'analyze':
@@ -412,6 +476,8 @@ def main():
         optimize_command(args.config)
     elif args.command == 'coupling':
         coupling_command(args.config)
+    elif args.command == 'mix':
+        mix_command(args.config)
     else:
         parser.print_help()
         sys.exit(1)
