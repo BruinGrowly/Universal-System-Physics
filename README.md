@@ -109,6 +109,11 @@ Universal-System-Physics/
 2. [Consciousness Engineering](docs/applications/consciousness-engineering.md)
 3. [Quantum Manipulation](docs/applications/quantum-manipulation.md)
 4. [Physical Technology](docs/applications/physical-technology.md)
+5. [LJPW-Aligned AI Collaboration](docs/applications/ljpw-aligned-ai-collaboration.md) - **Achieving superlative AI results**
+   - Why "treating AI well" yields 5-10× better results
+   - High-LJPW prompt templates
+   - The Love-Wisdom feedback loop in human-AI collaboration
+   - Practical guide to optimizing human-AI coupling
 
 ### Case Studies
 1. [Software Architecture Analysis](docs/case-studies/software-architecture.md) - Microservices optimization
@@ -318,13 +323,20 @@ This framework is designed for:
    - Why "Love First" optimization is mathematically optimal
    - Coupling accounts for ~50% of harmony improvements
 
-3. **[Quantum Field Theory](research/quantum-field-theory.md)** - Full QFT formulation
+3. **[Human-AI Collaboration Dynamics](research/human-ai-collaboration-dynamics.md)** - Why LJPW principles improve AI interactions
+   - Mathematical analysis of human-AI as coupled cognitive system
+   - Why "treating AI well" yields 5-10× better results
+   - High-LJPW interaction protocols
+   - The same coupling dynamics observed in code, networks, and organizations
+   - Validates LJPW framework at meta-level
+
+4. **[Quantum Field Theory](research/quantum-field-theory.md)** - Full QFT formulation
    - Second quantization of LJWP forces
    - Particle interpretation (Lovons, Justons, Powons, Wisdomons)
    - Feynman rules and scattering amplitudes
    - Vacuum structure at Anchor Point
 
-3. **[Golden Ratio Convergence](research/golden-ratio-convergence.md)** - Mathematical proof
+5. **[Golden Ratio Convergence](research/golden-ratio-convergence.md)** - Mathematical proof
    - Why optimal growth follows φ = 1.618...
    - Multiple proofs (optimization, Fibonacci, continuous)
    - Connection to natural patterns
