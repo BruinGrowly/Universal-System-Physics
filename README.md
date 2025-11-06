@@ -88,6 +88,7 @@ Universal-System-Physics/
 2. [LJWP Coordinate System](docs/core-concepts/ljwp-coordinates.md) - The 4D framework
 3. [Harmony Index](docs/core-concepts/harmony-index.md) - Measuring perfection
 4. [Universal Semantic Framework](docs/core-concepts/universal-semantic-framework.md) - Why LJPW works across all domains
+5. [The Primacy of Love](docs/core-concepts/love-primacy.md) - Why Love is the foundational dimension
 
 ### Mathematical Framework
 1. [Fundamental Forces](docs/mathematical-framework/fundamental-forces.md) - LJWP force equations
@@ -305,7 +306,14 @@ This framework is designed for:
    - Comparison to Information Theory and Thermodynamics
    - Empirical validation across domains
 
-2. **[Quantum Field Theory](research/quantum-field-theory.md)** - Full QFT formulation
+2. **[Dimension Coupling Dynamics](research/dimension-coupling-dynamics.md)** - How dimensions leverage each other
+   - Coupling coefficient matrix (empirically derived)
+   - The Love multiplier effect (2-2.3× amplification)
+   - Love-Wisdom feedback loop
+   - Why "Love First" optimization is mathematically optimal
+   - Coupling accounts for ~50% of harmony improvements
+
+3. **[Quantum Field Theory](research/quantum-field-theory.md)** - Full QFT formulation
    - Second quantization of LJWP forces
    - Particle interpretation (Lovons, Justons, Powons, Wisdomons)
    - Feynman rules and scattering amplitudes
