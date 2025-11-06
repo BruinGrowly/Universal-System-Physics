@@ -343,7 +343,19 @@ This framework is designed for:
    - Practical application strategies
 
 ### Experimental Validation
-1. **[Experimental Protocols](research/experimental-protocols.md)** - Seven detailed protocols
+
+1. **[Empirical Validation Roadmap](research/empirical-validation-roadmap.md)** - **Comprehensive scientific validation plan**
+   - Addresses critiques of the framework and provides rigorous scientific roadmap
+   - 20 falsifiable predictions with statistical criteria (p<0.05, effect sizes)
+   - 3 randomized controlled trials (RCTs) with power analysis
+   - Information-theoretic derivation of field equations
+   - Peer review publication strategy
+   - Open science practices (pre-registration, public data)
+   - Timeline: 6, 12, 18, 24-month milestones
+   - Honest Bayesian statistical reporting framework
+   - Minimum Viable Validation: 3 papers, 10 predictions, 60%+ validated
+
+2. **[Experimental Protocols](research/experimental-protocols.md)** - Seven detailed protocols
    - Prayer efficacy measurement (12 weeks, N=120)
    - Consciousness-quantum bridge testing (QRNG experiments)
    - TruthSense deception detection (ROC analysis)
