@@ -1,0 +1,16 @@
+{
+  "domain_results": {
+    "software_teams": {
+      "domain": "software_teams",
+      "fitted_kappa": 1.4545217838494193,
+      "expected_kappa": 1.4,
+      "r_squared": 0.6438045588796983,
+      "p_value": 9.683937813910068e-08,
+      "std_error": 0.20446000578824483,
+      "confidence_interval": [
+        1.0357044477812818,
+        1.8733391199175569
+      ],
+      "effect_size_f2": 1.8074474980780548,
+      "sample_size": 30,
+      "validated": 
