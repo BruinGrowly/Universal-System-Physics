@@ -1,0 +1,11 @@
+{
+  "system": "Bureaucratic Organization",
+  "description": "Large organization with high processes but low collaboration",
+  "coordinates": {
+    "L": 0.3,
+    "J": 0.85,
+    "P": 0.9,
+    "W": 0.4
+  },
+  "notes": "Classic 'Justice Without Love = Bureaucracy' anti-pattern. High J + Low L leads to low effective Justice."
+}
