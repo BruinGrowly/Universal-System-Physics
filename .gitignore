@@ -48,6 +48,7 @@ htmlcov/
 # Validation study outputs (generated files)
 validation-studies/analysis/*.json
 validation-studies/analysis/*.png
+validation-studies/analysis/*.csv
 validation-studies/data/*.csv
 
 # Temporary files
