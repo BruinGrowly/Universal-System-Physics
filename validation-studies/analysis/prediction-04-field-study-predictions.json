@@ -1,0 +1,222 @@
+[
+  {
+    "team_id": 1,
+    "L0": 0.704,
+    "W0": 0.375,
+    "W_week2": 0.933,
+    "delta_W": 0.558,
+    "L_week4": 0.756,
+    "L_week6": 0.869,
+    "delta_L_week4": 0.051,
+    "delta_L_week6": 0.165
+  },
+  {
+    "team_id": 2,
+    "L0": 0.801,
+    "W0": 0.799,
+    "W_week2": 1.294,
+    "delta_W": 0.495,
+    "L_week4": 0.853,
+    "L_week6": 0.966,
+    "delta_L_week4": 0.052,
+    "delta_L_week6": 0.165
+  },
+  {
+    "team_id": 3,
+    "L0": 0.387,
+    "W0": 0.653,
+    "W_week2": 0.999,
+    "delta_W": 0.346,
+    "L_week4": 0.405,
+    "L_week6": 0.442,
+    "delta_L_week4": 0.017,
+    "delta_L_week6": 0.055
+  },
+  {
+    "team_id": 4,
+    "L0": 0.739,
+    "W0": 0.708,
+    "W_week2": 1.092,
+    "delta_W": 0.384,
+    "L_week4": 0.776,
+    "L_week6": 0.856,
+    "delta_L_week4": 0.037,
+    "delta_L_week6": 0.116
+  },
+  {
+    "team_id": 5,
+    "L0": 0.888,
+    "W0": 0.136,
+    "W_week2": 0.61,
+    "delta_W": 0.474,
+    "L_week4": 0.943,
+    "L_week6": 1.0,
+    "delta_L_week4": 0.055,
+    "delta_L_week6": 0.112
+  },
+  {
+    "team_id": 6,
+    "L0": 0.814,
+    "W0": 0.253,
+    "W_week2": 0.565,
+    "delta_W": 0.312,
+    "L_week4": 0.847,
+    "L_week6": 0.918,
+    "delta_L_week4": 0.033,
+    "delta_L_week6": 0.103
+  },
+  {
+    "team_id": 7,
+    "L0": 0.726,
+    "W0": 0.198,
+    "W_week2": 0.701,
+    "delta_W": 0.503,
+    "L_week4": 0.774,
+    "L_week6": 0.878,
+    "delta_L_week4": 0.048,
+    "delta_L_week6": 0.152
+  },
+  {
+    "team_id": 8,
+    "L0": 0.761,
+    "W0": 0.527,
+    "W_week2": 1.037,
+    "delta_W": 0.51,
+    "L_week4": 0.811,
+    "L_week6": 0.922,
+    "delta_L_week4": 0.05,
+    "delta_L_week6": 0.162
+  },
+  {
+    "team_id": 9,
+    "L0": 0.692,
+    "W0": 0.252,
+    "W_week2": 0.689,
+    "delta_W": 0.436,
+    "L_week4": 0.731,
+    "L_week6": 0.817,
+    "delta_L_week4": 0.039,
+    "delta_L_week6": 0.125
+  },
+  {
+    "team_id": 10,
+    "L0": 0.357,
+    "W0": 0.436,
+    "W_week2": 0.94,
+    "delta_W": 0.504,
+    "L_week4": 0.38,
+    "L_week6": 0.432,
+    "delta_L_week4": 0.023,
+    "delta_L_week6": 0.075
+  },
+  {
+    "team_id": 11,
+    "L0": 0.517,
+    "W0": 0.3,
+    "W_week2": 0.791,
+    "delta_W": 0.492,
+    "L_week4": 0.55,
+    "L_week6": 0.623,
+    "delta_L_week4": 0.033,
+    "delta_L_week6": 0.106
+  },
+  {
+    "team_id": 12,
+    "L0": 0.439,
+    "W0": 0.456,
+    "W_week2": 0.819,
+    "delta_W": 0.363,
+    "L_week4": 0.46,
+    "L_week6": 0.504,
+    "delta_L_week4": 0.021,
+    "delta_L_week6": 0.065
+  },
+  {
+    "team_id": 13,
+    "L0": 0.611,
+    "W0": 0.173,
+    "W_week2": 0.557,
+    "delta_W": 0.384,
+    "L_week4": 0.641,
+    "L_week6": 0.707,
+    "delta_L_week4": 0.03,
+    "delta_L_week6": 0.096
+  },
+  {
+    "team_id": 14,
+    "L0": 0.824,
+    "W0": 0.615,
+    "W_week2": 0.848,
+    "delta_W": 0.233,
+    "L_week4": 0.849,
+    "L_week6": 0.901,
+    "delta_L_week4": 0.025,
+    "delta_L_week6": 0.077
+  },
+  {
+    "team_id": 15,
+    "L0": 0.275,
+    "W0": 0.31,
+    "W_week2": 0.824,
+    "delta_W": 0.514,
+    "L_week4": 0.293,
+    "L_week6": 0.334,
+    "delta_L_week4": 0.018,
+    "delta_L_week6": 0.059
+  },
+  {
+    "team_id": 16,
+    "L0": 0.831,
+    "W0": 0.739,
+    "W_week2": 1.147,
+    "delta_W": 0.408,
+    "L_week4": 0.875,
+    "L_week6": 0.971,
+    "delta_L_week4": 0.044,
+    "delta_L_week6": 0.139
+  },
+  {
+    "team_id": 17,
+    "L0": 0.566,
+    "W0": 0.114,
+    "W_week2": 0.423,
+    "delta_W": 0.308,
+    "L_week4": 0.589,
+    "L_week6": 0.637,
+    "delta_L_week4": 0.023,
+    "delta_L_week6": 0.071
+  },
+  {
+    "team_id": 18,
+    "L0": 0.834,
+    "W0": 0.265,
+    "W_week2": 0.72,
+    "delta_W": 0.456,
+    "L_week4": 0.883,
+    "L_week6": 0.991,
+    "delta_L_week4": 0.049,
+    "delta_L_week6": 0.157
+  },
+  {
+    "team_id": 19,
+    "L0": 0.434,
+    "W0": 0.328,
+    "W_week2": 0.78,
+    "delta_W": 0.452,
+    "L_week4": 0.459,
+    "L_week6": 0.515,
+    "delta_L_week4": 0.026,
+    "delta_L_week6": 0.081
+  },
+  {
+    "team_id": 20,
+    "L0": 0.55,
+    "W0": 0.553,
+    "W_week2": 1.038,
+    "delta_W": 0.485,
+    "L_week4": 0.585,
+    "L_week6": 0.661,
+    "delta_L_week4": 0.035,
+    "delta_L_week6": 0.111
+  }
+]

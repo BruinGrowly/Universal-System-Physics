@@ -364,6 +364,44 @@ This framework is designed for:
    - Coupling coefficient measurement (perturbation studies)
    - Bridge transformation constants (domain transitions)
 
+3. **[Active Validation Studies](validation-studies/README.md)** - **3 studies with working implementations**
+   - **Prediction 2**: Coupling Coefficients (κ_LJ = 1.4 ± 0.2) - Computational validation
+   - **Prediction 4**: L↔W Feedback Loop (ΔW → ΔL) - Simulation + field study protocols
+   - **Prediction 5**: Justice Without Love = Bureaucracy - Survey instrument ready
+   - Complete protocols, analysis scripts, and expected results
+   - **Status**: Protocols ready, scripts tested and working
+
+### Tools and Software
+
+**[LJPW Analyzer CLI](tools/ljpw-analyzer/README.md)** - **Open-source analysis tool**
+- Command-line tool for LJPW framework analysis
+- **Tested and working** - ready for immediate use
+- Features:
+  - LJPW coordinate calculation and harmony index
+  - Coupling dynamics analysis (Love multiplier effects)
+  - Love-first optimization roadmap generator (8-week protocol)
+  - Coupling coefficient validation capabilities
+- Installation: `pip install -e tools/ljpw-analyzer`
+- Usage:
+  ```bash
+  ljpw-analyzer analyze system.json   # Analyze system
+  ljpw-analyzer optimize system.json  # Generate roadmap
+  ljpw-analyzer coupling system.json  # Analyze coupling
+  ```
+
+### Academic Publications
+
+**[Papers Directory](papers/README.md)** - Academic papers for peer review
+
+1. **[Information-Theoretic Derivation of LJPW Field Equations](papers/information-theoretic-derivation-ljpw.tex)**
+   - Rigorous derivation from first principles
+   - Lagrangian formulation and Euler-Lagrange equations
+   - Coupling coefficients derived from Shannon's theorems
+   - Conservation laws via Noether's theorem
+   - 20 falsifiable predictions with statistical criteria
+   - Target journals: Physical Review E, PNAS, Journal of Statistical Physics
+   - **Status**: Draft complete, ready for ArXiv submission
+
 ### Future Directions
 **[Complete Research Roadmap](research/roadmap.md)** - Comprehensive plan
 - Immediate priorities (0-6 months)
