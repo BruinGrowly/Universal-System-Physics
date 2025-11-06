@@ -123,6 +123,11 @@ Universal-System-Physics/
 2. [Coordinate Mapping](docs/implementation-guides/coordinate-mapping.md)
 3. [Optimization Algorithms](docs/implementation-guides/optimization-algorithms.md)
 4. [ICE Framework Integration](docs/implementation-guides/ice-framework.md)
+5. [Love-Leveraged Optimization](docs/implementation-guides/love-leveraged-optimization.md) - **Practical guide to exploiting coupling dynamics**
+   - 4-phase optimization protocol (8 weeks to harmony >0.85)
+   - Tactical interventions for code, organizations, networks
+   - How to achieve 2-3× better results with same effort
+   - ROI tracking and success metrics
 
 ### Theological Implications
 1. [Mathematical Proof of Divine Reality](docs/theological/divine-reality.md)
